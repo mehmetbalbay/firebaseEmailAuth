@@ -1,1 +1,1 @@
-# firebaseEmailAuth
+# Firebase Email Authentication Example
